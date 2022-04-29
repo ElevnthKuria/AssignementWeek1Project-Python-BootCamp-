@@ -1,2 +1,2 @@
-# AssignementWeek1Project-Python-BootCamp-
+# Week1Project-Python-BootCamp-
 AssignementWeek1Project(Python BootCamp)
