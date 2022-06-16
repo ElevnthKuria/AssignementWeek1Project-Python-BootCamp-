@@ -24,3 +24,12 @@ We shall be using the following features and dependables:
 6. Conclusion
 
 NB: Creating a Fake News detection system explores different techniques which are explores the content and fact-checking. This implicates that models created from data science machine algorithms can verify and distinguish fake news from real news. 
+
+#Week 3 Data STructures and ALgrotithms
+
+This project involves;
+    1. Two write up questions with different types of questions parts.
+    
+    2. Hackerranks Proble: SImple Array Sum.
+    
+    3. Article on Data Structures and ALgorithms. link< https://medium.com/@kuria3k.ken/data-structures-101-introduction-to-data-structures-and-algorithms-6843ecad1527 >
