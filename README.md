@@ -1,8 +1,11 @@
 # Week1 Project-Python-BootCamp
 Projects(LuxDevPython BootCamp)
 Working with Python Functions
+
   I. Python function to check to check whether a number is Prime or not
+  
   II.Python function that when you inputs a number the function you have created checks whether the number belongs to the Fibonacci sequence or not.
+  
 NB: You have to push your work on any github/gitlab or bitbucket and share the link, all the best Happy coding.
 
 # Week2 Project-Python-BootCamp
