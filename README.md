@@ -27,10 +27,5 @@ NB: Creating a Fake News detection system explores different techniques which ar
 
 # Week 3 Data STructures and ALgrotithms
 
-This project involves:
-
- 1. Two write up questions with different types of questions parts.
+This project involves Two write up questions with different types of questions parts.
     
- 2. Hackerranks Proble: SImple Array Sum.
-   
- 3. Article on Data Structures and ALgorithms. link: https://medium.com/@kuria3k.ken/data-structures-101-introduction-to-data-structures-and-algorithms-6843ecad1527 
