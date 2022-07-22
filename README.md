@@ -1,4 +1,4 @@
-# Week1 Project-Python-BootCamp
+# Project-Functions-in-Python
 Projects(LuxDevPython BootCamp)
 Working with Python Functions
 
@@ -8,7 +8,7 @@ Working with Python Functions
   
 NB: You have to push your work on any github/gitlab or bitbucket and share the link, all the best Happy coding.
 
-# Week2 Project-Python-BootCamp
+# Project-FakeNewsDetection
 Projects(LuxDevPython BootCamp)
 ## Description of Project
 
@@ -25,7 +25,7 @@ We shall be using the following features and dependables:
 
 NB: Creating a Fake News detection system explores different techniques which are explores the content and fact-checking. This implicates that models created from data science machine algorithms can verify and distinguish fake news from real news. 
 
-# Week 3 Data STructures and ALgrotithms
+# Data STructures and ALgrotithms
 
 This project involves Two write up questions with different types of questions parts.
     
